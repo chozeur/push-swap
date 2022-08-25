@@ -1,4 +1,7 @@
-# Rules
+# <p align="center">Push Swap [![flcarval's 42Project Score](https://badge42.vercel.app/api/v2/cl1lmiew3000609l599o75f45/project/2472108)](https://github.com/JaeSeoKim/badge42)</p>
+
+-------------------------------------
+## Rules
 Given a list of single random numbers, the aim of push_swap is to sort that list.
 We can use two stacks in order to sort the given numbers. Considering the two stacks A & B, here are the actions we can apply on each stack.
 |Name|Function|
